@@ -1,0 +1,86 @@
+@media (max-width: 1000px) {
+  .main {
+    width: 33%;
+    margin-bottom: 50px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 64px;
+  }
+
+  .top-wrapper p {
+    font-size: 16px;
+  }
+
+  .heading h2 {
+    font-size: 35px;
+  }
+
+  .main.icon p {
+    font-size: 18px;
+  }
+
+  .txt-contents {
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 670px) {
+  .main {
+    width: 100%;
+  }
+
+  .header-logo {
+    font-size: 20px;
+  }
+
+  .top-wrapper {
+    text-align: left;
+  }
+
+  .top-wrapper h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+
+  .top-wrapper p {
+    font-size: 14px;
+  }
+
+  .menu-navigation {
+    display: none;
+  }
+
+  .menu-burger {
+    display: block;
+    float: right;
+    margin-bottom: 10px;
+    z-index: 100;
+  }
+
+  .main-icon p {
+    font-size: 18px;
+  }
+
+  .txt-contents {
+    font-size: 17px;
+    margin-bottom: 25px;
+  }
+
+  footer p {
+    width: 170px;
+    font-size: 20px;
+    float: left;
+    padding: 0 25px;
+    margin-top: 20px;
+  }
+
+  .hubungi {
+    width: 40%;
+    display: block;
+    text-align: center;
+    font-size: 10px;
+    margin-bottom: 28px;
+    margin: none;
+  }
+}
